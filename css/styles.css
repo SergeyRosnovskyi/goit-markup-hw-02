@@ -44,7 +44,7 @@ body {
  line-height: 1.142;
  letter-spacing: 0.02em;
  text-decoration: none;
- color: var(--third-color);
+ color: var(--color4);
 }
 
 .navigation-list-link:hover,
@@ -147,7 +147,7 @@ body {
 }
 
 .footer-address-link {
- color: rgba(255, 255, 255, 0.6);
+ color: var(--third-color)
  text-decoration: none;
 }
 
@@ -199,4 +199,4 @@ body {
   font-size: 16px;
  line-height: 1.875;
  letter-spacing: 0.03em;
- color: var(--theid-color);
+ color: var(--third-color);
