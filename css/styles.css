@@ -3,7 +3,7 @@
  --secondary-font: "Raleway", sans-serif;
  --main-color: #212121;
  --secondary-color: #2196f3;
- --therd-color: #757575;
+ --third-color: #757575;
  --color4:#2f303a;
  --color5:#ffffff;
 }
@@ -44,7 +44,7 @@ body {
  line-height: 1.142;
  letter-spacing: 0.02em;
  text-decoration: none;
- color: var(--therd-color);
+ color: var(--third-color);
 }
 
 .navigation-list-link:hover,
@@ -98,7 +98,7 @@ body {
 
 .content-desc {
  line-height: 1.714;
- color: var(--therd-color);
+ color: var(--third-color);
  text-transform: none;
 }
 
@@ -127,7 +127,7 @@ body {
  line-height: 1.187;
  letter-spacing: 0.03em;
  font-weight: 400;
- color: var(--therd-color);
+ color: var(--third-color);
 }
 /*========END OFFER AND TEAM ========*/
 
@@ -199,4 +199,4 @@ body {
   font-size: 16px;
  line-height: 1.875;
  letter-spacing: 0.03em;
- color: var(--therd-color);
+ color: var(--theid-color);
